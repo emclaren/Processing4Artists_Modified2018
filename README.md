@@ -9,7 +9,9 @@ Many more materials for learning Processing are available at https://processing.
 2018 Workshop Leaders:
 
 Elgin-Skye McLaren, Simon Fraser University
+
 Susan Reiser, UNC Asheville
+
 Ginger Alford, Trinity Valley School 
 
 
